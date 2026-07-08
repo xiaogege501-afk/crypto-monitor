@@ -1,0 +1,6 @@
+{
+  "holdings": ["BTCUSDT", "ETHUSDT", "SOLUSDT", "BNBUSDT"],
+  "proxy": "",
+  "auto_refresh_minutes": 5,
+  "recommend_count": 10
+}
